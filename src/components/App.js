@@ -26,7 +26,8 @@ const App = () => {
             onChange={handleEmailChange}
             />
           </label>
-           <div className="output" name="Thomas Edward Stark">
+           <div className="output">
+            Name - Thomas Edward Stark
           <h2>Preview</h2>
           <p><strong>Name:</strong>{name}</p>
           <p><strong>Email:</strong>{email}</p>
