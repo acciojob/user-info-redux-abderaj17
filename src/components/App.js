@@ -28,6 +28,7 @@ const App = () => {
           </label>
            <div className="output">
             Name - Thomas Edward Stark
+            Email - tonystark@starkindustries.com
           <h2>Preview</h2>
           <p><strong>Name:</strong>{name}</p>
           <p><strong>Email:</strong>{email}</p>
