@@ -26,10 +26,11 @@ const App = () => {
             onChange={handleEmailChange}
             />
           </label>
-
+           <div className="output">
           <h2>Preview</h2>
           <p><strong>Name:</strong>{name}</p>
           <p><strong>Email:</strong>{email}</p>
+          </div>
         </div>
     </div>
   );
